@@ -3,7 +3,7 @@
 - 🌱 I’m always learning new things.
 - 💞️ I’m looking to collaborate on any exciting research/working projects.
 - 📫 I'm available on Linkedin: https://www.linkedin.com/in/ensiyeh-raoufi-b2830857/ or 
-   contact me via email: Raoufi_en@yahoo.com , en.raoufi@sharif.edu
+   contact me via email: Raoufi_en@yahoo.com , ensiyeh.raoufi@lirmm.fr
 -  In this repository you can find my different codes and projects.
 <!---
 EnsiyehRaoufi/EnsiyehRaoufi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
